@@ -16,6 +16,7 @@ _By Auba Fuster Palà_
 - [Hypothesis and Objectives of the paper](#hypothesis-and-objectives-of-the-paper)
 - [Methodology](#methodology)
 - [Results and Conclusions](#results-and-conclusions)
+- [Bibliography](#bibliography)
 
  
  
@@ -51,3 +52,7 @@ Here we have a general pipeline for the methodology employed for this project! F
 This research successfully demonstrated the viability of various experimental setups using a single methodology and protocol. When it comes to temporal evolution of patterned cultures and the effects of physical constraints on network connectivity, it is suggested the need for more precise and durable physical constraint methods to maintain network connectivity in mature cultures,as the plasticity of the networks lead to adapting to the test actions. 
 In the case of bicuculline, there is a contradiction between the expected decrease in inter-burst interval (IBI) and the observed increase, which has been reported in previous studies as well. They propose potential reasons for this inconsistency, including the influence of refractory periods and the specific topographical PDMS pattern used in the experiments. Regarding CNQX, it was confirmed its inhibitory effects on excitatory synapses and demonstrates the culture's ability to recover partially from the perturbation by increasing synaptic weights. However, this recovery is accompanied by a loss of variability in spatiotemporal activity patterns. It is also discussed the effects of an external perturbation in the form of a controlled incision on the neuronal cultures. It describes the changes in network fraction, variability, and richness of activity following the perturbation, as well as the alterations in connectivity parameters and organization.
 The study suggests that the cultures are capable of fighting against perturbations and adapting their activity as to mantain the network. Overall, the research provides insights into the dynamics and plasticity of in vitro neuronal cultures, highlighting their potential for studying network activity and investigating synaptic plasticity phenomena.
+
+
+## Bibliography
+
