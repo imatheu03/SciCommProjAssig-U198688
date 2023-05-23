@@ -5,6 +5,7 @@ My name is Inés Matheu (u198688) and I am a Biomedical Engineering student at U
 
 
 **In vitro neuronal cultures and network analysis to build a proof-of-concept biological computing AI device**
+
 _By Auba Fuster Palà_
 
 This repository contains the code and supplementary materials associated with the paper titled "Paper Title." The paper investigates [briefly summarize the main topic or objective of the paper].
