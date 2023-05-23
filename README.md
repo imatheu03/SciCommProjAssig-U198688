@@ -59,9 +59,9 @@ The study suggests that the cultures are capable of fighting against perturbatio
 ## Bibliography
 
 ## Citation
-If you use this code or the ideas presented in the paper for your own research, please consider citing the original paper:
+If you want to use the ideas presented in the paper for your own research, please consider citing the original paper:
 Fuster Palá, Auba. In vitro neuronal cultures and network analysis to build a proof-of-concept biological computing AI device. 2022
 http://hdl.handle.net/10230/54577
 
 ## License
-Specify the license under which the code and associated materials are released. Mention any restrictions, if applicable, and provide a link to the full license text, if available.
+Creative-Common License (CC 4.0)
