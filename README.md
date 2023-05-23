@@ -1,6 +1,6 @@
 # SciCommProjAssig-U198688
 
-Hih, my name is Inés Matheu (u198688) and I am a Biomedical Engineering student at Universitat Pompeu Fabra! This repository contains sample code and the materials associated with the paper "In vitro neuronal cultures and network analysis to build a proof-of-concept biological computing AI device", written by Auba Fuster Palà. The aim of this is to bring some light to what the project was about and to briefly summarize the methods that were employed. I hope you find it useful!
+Hi, my name is Inés Matheu (u198688) and I am a Biomedical Engineering student at Universitat Pompeu Fabra! This repository contains sample code and the materials associated with the paper "In vitro neuronal cultures and network analysis to build a proof-of-concept biological computing AI device", written by Auba Fuster Palà. The aim of this is to bring some light to what the project was about and to briefly summarize the methods that were employed. I hope you find it useful!
 
 
 ## In vitro neuronal cultures and network analysis to build a proof-of-concept biological computing AI device ##
@@ -27,7 +27,7 @@ The findings indicated that culture functional connectivity could be configured 
 
 ## State of the Art
 
-Artificial intelligence (AI) and machine learning have become integral to various fields, with significant global impact. Neural networks, a key AI technology, have played a crucial role in the AI revolution. Initially, AI research explored both symbolism and connectionism, but connectionism prevailed due to its efficiency and effectiveness. However, current AI systems have limitations such as unsustainable energy consumption and the need for extensive computing power. To overcome these constraints, the NeuChip project aims to develop a biological computation alternative inspired by the human brain. It seeks to use human neural networks as low-power computing components, surpassing conventional artificial neural networks in adaptability and performance. The University of Barcelona is involved in shaping network self-organization and training as part of the project. In vitro neuronal cultures are being studied to build high-capacity AI systems with modest energy consumption and self-organization. Challenges include recreating the rich spatiotemporal activity patterns of native tissue and inducing patterning in the connectivity of neuronal cultures. Such biological computation has vast potential, including applications in medical therapies and studying neurodegenerative diseases. Neuroengineering with in vitro neuronal cultures enables the exploration of network architecture and dynamics in disease research and transplant therapies.
+Artificial intelligence (AI) and machine learning have become integral to various fields, with significant global impact. Neural networks, a key AI technology, have played a crucial role in the AI revolution. Initially, AI research explored both symbolism and connectionism, but connectionism prevailed due to its efficiency and effectiveness. However, current AI systems have limitations such as unsustainable energy consumption and the need for extensive computing power. To overcome these constraints, the NeuChip project aims to develop a biological computation alternative inspired by the human brain. It seeks to use human neural networks as low-power computing components, surpassing conventional artificial neural networks in adaptability and performance. In vitro neuronal cultures are being studied to build high-capacity AI systems with modest energy consumption and self-organization. Challenges include recreating the rich spatiotemporal activity patterns of native tissue and inducing patterning in the connectivity of neuronal cultures. Such biological computation has a lot of potential, including applications in medical therapies and studying neurodegenerative diseases. Neuroengineering with in vitro neuronal cultures makes possible the exploration of network architecture and dynamics in disease research and transplant therapies.
 
 
 ## Hypothesis and Objectives of the paper
@@ -42,8 +42,9 @@ The hypothesis of this paper suggests that neuronal cultures and network analysi
 
 ## Methodology
 
-Here we have a general pipeline for the methodology employed for this project! For a more detailed explanation of some of the methods, you can check the Wiki page!
+Here we have a general pipeline for the methodology employed for this project! For a more detailed explanation of some of the methods, you can check the Wiki Page!
 
+![image](https://github.com/imatheu03/SciCommProjAssig-U198688/assets/132487259/94784b59-df24-4667-a27c-3b91dc92c0e6)
 
 ## Results and Conclusions
 
