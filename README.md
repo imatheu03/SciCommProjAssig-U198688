@@ -2,8 +2,10 @@
 
 My name is Inés Matheu (u198688) and I am a Biomedical Engineering student at Universitat Pompeu Fabra. This repository contains sample code and the materials associated with the paper "In vitro neuronal cultures and network analysis to build a proof-of-concept biological computing AI device", written by Auba Fuster Palà. The aim of this repository is to bring some light to what the project was about and to briefly summarize the methods that were employed. 
 
+
+
 **In vitro neuronal cultures and network analysis to build a proof-of-concept biological computing AI device**
-_By Auba Fuster Palà
+_By Auba Fuster Palà_
 
 This repository contains the code and supplementary materials associated with the paper titled "Paper Title." The paper investigates [briefly summarize the main topic or objective of the paper].
 
