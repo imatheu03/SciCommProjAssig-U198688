@@ -60,8 +60,11 @@ The study suggests that the cultures are capable of fighting against perturbatio
 ## Bibliography
 
 [1] Dwivedi, Y. K., et al. (2021). Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy. International Journal of Information Management, 57, 101994. https://doi.org/10.1016/j.ijinfomgt.2019.08.002
+
 [2] Gallant, S., I. (1993). Neural Network Learning and Expert Systems; Mit Press. Bradford Book. ISBN 978-0262527897
+
 [3] Minsky, M and Papert, S. (1972). Perceptrons: An Introduction to Computational Geometry. The MIT Press. ISBN 0-262-63022-2
+
 [4] Chelly Dagdia, Z., Avdeyev, P., & Bayzid, M. S. (2021). Biological computation and computational biology: survey, challenges, and discussion. Artificial Intelligence Review, 54(6), 4169–4235. https://doi.org/10.1007/s10462-020-09951-1 
 
 
